@@ -1,4 +1,4 @@
-ou must use the capabilities of Selenium WebDriver, TestNG framework and the Page Object concept while implementing tests. Push your code to Github, submit your solution for code review.
+You must use the capabilities of Selenium WebDriver, TestNG framework and the Page Object concept while implementing tests. Push your code to Github, submit your solution for code review.
 
 Preconditions:
 
